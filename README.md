@@ -45,6 +45,6 @@ I am a web developer with a strong focus on building efficient backend services 
 ### Thanks for dropping by!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nevinb&color=blue&style=flat-square&label=PROFILE+VIEWS)
-[![Show some love](https://img.shields.io/badge/Leave_a_❤️-ff69b4?style=flat-square)](https://link-to-your-api-or-support-page.com)
+[![Show some love](https://nevinb.in/github-profile/support-badge-svg)](https://nevinb.in/github-profile/nevin-aka-boateo6/show-support)
 
 </div>
