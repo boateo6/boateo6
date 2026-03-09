@@ -29,8 +29,8 @@ I am a web developer with a strong focus on building efficient backend services 
     <img src="https://img.shields.io/badge/Discord-nevin__b-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
   <br>
-  <a href="mailto:nevinbusinessofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nevinbusinessofficial%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  <a href="mailto:me@nevinb.in">
+    <img src="https://img.shields.io/badge/Email-me%40nevinb.in-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <br>
   <a href="https://dev.to/nevinb" target="_blank">
