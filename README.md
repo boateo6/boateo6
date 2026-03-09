@@ -21,6 +21,10 @@ I am a web developer with a strong focus on building efficient backend services 
 ### 📫 Let's Connect
 
 <p align="left">
+  <a href="https://nevinb.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-nevinb.in-BF40BF?style=for-the-badge" alt="Website" />
+  </a>
+  <br>
   <a href="https://discordapp.com/users/758341919066816512" target="_blank">
     <img src="https://img.shields.io/badge/Discord-nevin__b-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
