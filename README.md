@@ -1,6 +1,6 @@
-# Hi there, I'm Nevin AKA boateo6 👋
+# Hi there, I'm Nevin 👋
 
-I am a currently a student with a strong focus on building efficient backend services and automating workflows. I love bringing ideas to life through code, whether that means crafting web experiences, building custom bots, or tinkering with personal infrastructure.
+I am a web developer with a strong focus on building efficient backend services and automating workflows. I love bringing ideas to life through code, whether that means crafting web experiences, building custom bots, or tinkering with personal infrastructure.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -20,9 +20,19 @@ I am a currently a student with a strong focus on building efficient backend ser
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+<p align="left">
+  <a href="https://discordapp.com/users/758341919066816512" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-nevin__b-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+  <br>
+  <a href="mailto:nevinbusinessofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nevinbusinessofficial%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <br>
+  <a href="https://dev.to/nevinb" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-nevinb-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="Dev.to" />
+  </a>
+</p>
 
 ---
 
@@ -30,22 +40,7 @@ I am a currently a student with a strong focus on building efficient backend ser
 
 ### Thanks for dropping by!
 
-![Profile Views](https://komarev.com/ghpvc/?username=boateo6&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nevinb&color=blue&style=flat-square&label=PROFILE+VIEWS)
 [![Show some love](https://img.shields.io/badge/Leave_a_❤️-ff69b4?style=flat-square)](https://link-to-your-api-or-support-page.com)
 
 </div>
-
-<!--
-**boateo6/boateo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
